@@ -1,0 +1,7 @@
+flask
+flask-restful
+langchain
+beautifulsoup4
+requests
+numpy
+sentence-transformers
